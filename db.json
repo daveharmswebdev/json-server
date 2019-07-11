@@ -11,5 +11,10 @@
     ],
     "profile": {
       "name": "typicode"
+    },
+    "config": {
+      "siteId": "96",
+      "accessLevel": "42",
+      "zone": "orange"
     }
   }
